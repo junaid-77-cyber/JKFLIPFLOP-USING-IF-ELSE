@@ -54,4 +54,5 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ![Screenshot 2024-12-15 181240](https://github.com/user-attachments/assets/3f976ccf-57d8-4ad7-bbc3-e133d445a484)
 
 **RESULTS**
+
 Thus the JK FlipFlop circuits are designed and the truth table is verified using Quartus SoFtware.
